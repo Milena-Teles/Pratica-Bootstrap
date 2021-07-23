@@ -1,4 +1,5 @@
 let email = document.querySelector('#email')
+let assunto = document.querySelector('#assunto')
 
 function validaEmail()
 {
